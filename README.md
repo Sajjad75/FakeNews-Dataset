@@ -1,5 +1,7 @@
 # Multi-Class FakeNews Dataset
-This dataset collected from the three most popular fack-checking websites Politifact, Snopes, and Truthorfiction. 
+This dataset was collected from the three most popular fact-checking websites Politifact, Snopes, and Truthorfiction.
+#### You can get the full dataset from the below link:
+https://drive.google.com/file/d/1rnhCPuJ16cObSybVsUnvErPHZ9EKczaO/view?usp=sharing
 
 # Crawling data:
 #### •	Crawling the Politifact.com completely until 9 Sep 2009 to 13 Jan 2021
