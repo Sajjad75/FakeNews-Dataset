@@ -7,12 +7,12 @@ This dataset collected from the three most popular fack-checking websites Politi
 •	Crawling the fact-check website(Snopes.com) completely until 17 Mar 2015 to 11 Jan 2021
 
 ### This dataset included:
-  Title
-  Url
-  Date_published
-  Label (True, Mostly-True, Half-True, Mostly-False, and False)
-  Author_Name
-  Content
+  #Title
+  #Url
+  #Date_published
+  #Label (True, Mostly-True, Half-True, Mostly-False, and False)
+  #Author_Name
+  #Content
 For citation please refer to this paper:
 Rezaei, Sajjad, Mohsen Kahani, and Behshid Behkamal. "The Process Of Multi-Class Fake News Dataset Generation." 11th International Conference on Computer and Knowledge Engineering (ICCKE 2021). 2021.
 Citation link for EndNote:
