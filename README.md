@@ -15,7 +15,7 @@ This dataset collected from the three most popular fack-checking websites Politi
  ##### Content
  
 # For citation please refer to this paper:
-#### Rezaei, Sajjad, Mohsen Kahani, and Behshid Behkamal. "The Process Of Multi-Class Fake News Dataset Generation." 11th International Conference on Computer and Knowledge Engineering (ICCKE 2021). 2021.
+ **Rezaei, Sajjad, Mohsen Kahani, and Behshid Behkamal. "The Process Of Multi-Class Fake News Dataset Generation." 11th International Conference on Computer and Knowledge Engineering (ICCKE 2021). 2021.
 
 ### Citation link for EndNote:
 https://scholar.googleusercontent.com/scholar.enw?q=info:OyWdq-IuOD4J:scholar.google.com/&output=citation&scisdr=CgWyJ7-WENqco3NxoLI:AAGBfm0AAAAAYf13uLK6jOBM7GSeCooMAmlMqTAOjlYX&scisig=AAGBfm0AAAAAYf13uEmFdhyrKbvniqq1BiR3Qtkhr_UY&scisf=3&ct=citation&cd=-1&hl=en
