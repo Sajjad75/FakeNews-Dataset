@@ -19,8 +19,7 @@ https://drive.google.com/file/d/1rnhCPuJ16cObSybVsUnvErPHZ9EKczaO/view?usp=shari
 # For citation please refer to this paper:
   Rezaei, Sajjad, Mohsen Kahani, and Behshid Behkamal. "The Process Of Multi-Class Fake News Dataset Generation." 11th International Conference on Computer and Knowledge Engineering (ICCKE 2021). 2021.
 
-### Citation link for EndNote:
-https://scholar.googleusercontent.com/scholar.enw?q=info:OyWdq-IuOD4J:scholar.google.com/&output=citation&scisdr=CgWyJ7-WENqco3NxoLI:AAGBfm0AAAAAYf13uLK6jOBM7GSeCooMAmlMqTAOjlYX&scisig=AAGBfm0AAAAAYf13uEmFdhyrKbvniqq1BiR3Qtkhr_UY&scisf=3&ct=citation&cd=-1&hl=en
-
-### Citation link for BibTex:
-https://scholar.googleusercontent.com/scholar.bib?q=info:OyWdq-IuOD4J:scholar.google.com/&output=citation&scisdr=CgWyJ7-WENqco3NxoLI:AAGBfm0AAAAAYf13uLK6jOBM7GSeCooMAmlMqTAOjlYX&scisig=AAGBfm0AAAAAYf13uEmFdhyrKbvniqq1BiR3Qtkhr_UY&scisf=4&ct=citation&cd=-1&hl=en
+### Citation
+Rezaei, Sajjad, Mohsen Kahani, and Behshid Behkamal. "The Process Of Multi-Class Fake News Dataset Generation." 2021 11th International Conference on Computer Engineering and Knowledge (ICCKE). IEEE, 2021.
+Link:
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Process+Of+Multi-Class+Fake+News+Dataset+Generation&btnG=#d=gs_cit&t=1673117046114&u=%2Fscholar%3Fq%3Dinfo%3AOyWdq-IuOD4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
