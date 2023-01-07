@@ -21,5 +21,5 @@ https://drive.google.com/file/d/1rnhCPuJ16cObSybVsUnvErPHZ9EKczaO/view?usp=shari
 
 ### Citation
 Rezaei, Sajjad, Mohsen Kahani, and Behshid Behkamal. "The Process Of Multi-Class Fake News Dataset Generation." 2021 11th International Conference on Computer Engineering and Knowledge (ICCKE). IEEE, 2021.
-Link:
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Process+Of+Multi-Class+Fake+News+Dataset+Generation&btnG=#d=gs_cit&t=1673117046114&u=%2Fscholar%3Fq%3Dinfo%3AOyWdq-IuOD4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den
+### Link:
+[[https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Process+Of+Multi-Class+Fake+News+Dataset+Generation&btnG=#d=gs_cit&t=1673117046114&u=%2Fscholar%3Fq%3Dinfo%3AOyWdq-IuOD4J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den](https://ieeexplore.ieee.org/abstract/document/9721509/)](https://ieeexplore.ieee.org/abstract/document/9721509)
